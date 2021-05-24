@@ -9,8 +9,9 @@ Daily Planner to manage time and tasks time effectively.
     CSS
     JavaScript
 
-    ## Website
+## Website
 
+    https://timanlemvo.github.io/work-day-schedual/
 
     ## Screenshots
 
